@@ -6,7 +6,7 @@
 4. The javascript creates a list and graph using the array
 5. The resulting html page allows you to view the humidity and temperature in various forms
 
-- THIS CODE WAS MADE BEFORE THE APEX CHARTS OR FIGURING OUT HOW CANVASJS WORKS
+- THIS CODE WAS MADE BEFORE THE APEX CHARTS
 - It's a very scuffed, but does the minimum requirments
 - If the graph is messed up, maximize the window and refresh
 -->
