@@ -1,4 +1,4 @@
-<!DOCTYPE>
+<!DOCTYPE> 
 <!-- ==SUMMARY OF THIS PROGRAM==
 1. It takes db info collected from the pi with the sensor in php
 2. The last-added info date is compared with the computer's datetime in php ("5 min old info" alert)
